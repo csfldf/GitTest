@@ -1,1 +1,1 @@
-aaaa
+int mian();
